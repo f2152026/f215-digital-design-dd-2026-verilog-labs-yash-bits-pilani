@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "f215-digital-design"
+assignment: "dd-2026-verilog-labs"
+owner:
+  username: "Yash-bits-pilani"
+  id: 318776684
+  accepted_at: "2026-08-26T11:28:04Z"
+source:
+  owner: "f2152026"
+  owner_id: 316136693
+  repo: "verilog-labs"
+  branch: "main"
